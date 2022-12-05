@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Special Elite';
+    color: indianred;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: darkgrey;
+}
+
+#body {
+    background-color: lightcoral;
+    padding-bottom: 250px;
+}
+
+#start {
+    padding-block: 10px;
+    padding-inline: 50px;
+    font-size: larger;
+    font-family: 'Special Elite';
+}
+
+h3 {
+    color: springgreen;
+}
+
+h4 {
+    color: springgreen;
+}
+
+#one, #two, #three, #four {
+    width: 420px;
+
+}
+
+footer {
+    font-family: 'Special Elite';
+    font-size: xx-large;
+    text-shadow: -3px 8px 10px #fa851c;
+    margin-top: 10px;
+    color: orange;
+}
